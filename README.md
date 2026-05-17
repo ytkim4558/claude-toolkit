@@ -17,6 +17,7 @@
 | 이름 | 설명 | 위치 | 문서 |
 |---|---|---|---|
 | **linkedin-update** | LinkedIn 포스트/프로필 섹션 초안 생성 | `~/.claude/skills/linkedin-update/` | [Wiki](docs/skills/linkedin-update.md) |
+| **firefly-prompt** | Adobe Firefly 영문 프롬프트 + 사용 가이드 생성 | `~/.claude/skills/firefly-prompt/` | [Wiki](docs/skills/firefly-prompt.md) |
 
 ## 📝 워크플로 노트
 
