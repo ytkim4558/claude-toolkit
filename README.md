@@ -18,6 +18,7 @@
 |---|---|---|---|
 | **linkedin-update** | LinkedIn 포스트/프로필 섹션 초안 생성 | `~/.claude/skills/linkedin-update/` | [Wiki](docs/skills/linkedin-update.md) |
 | **firefly-prompt** | Adobe Firefly 영문 프롬프트 + 사용 가이드 생성 | `~/.claude/skills/firefly-prompt/` | [Wiki](docs/skills/firefly-prompt.md) |
+| **portfolio-update** | 포트폴리오를 자연어 한 문장으로 갱신 (양쪽 repo 자동 sync + push) | `~/.claude/skills/portfolio-update/` | [Wiki](docs/skills/portfolio-update.md) |
 
 ## 📝 워크플로 노트
 
