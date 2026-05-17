@@ -11,6 +11,7 @@
 | 이름 | 설명 | 코드 | 문서 |
 |---|---|---|---|
 | **[claude-resume](https://github.com/ytkim4558/claude-resume)** | Claude Code 세션 피커 (Textual TUI + 백그라운드 요약) | [repo](https://github.com/ytkim4558/claude-resume) | [Wiki](docs/tools/claude-resume.md) |
+| **[codex-resume](https://github.com/ytkim4558/codex-resume)** | OpenAI Codex CLI 세션 검색/재개 도구 (Windows 친화형 picker) | [repo](https://github.com/ytkim4558/codex-resume) | [Wiki](docs/tools/codex-resume.md) |
 
 ## 🎯 Skills (`~/.claude/skills/` 에서 동작)
 
